@@ -16,7 +16,7 @@ Sri Lanka experienced its worst economic crisis since independence. After months
 Initially an assembly of frustrated citizens venting their anger at the gross economic mismanagement by the Rajapakse regime, the protest movement gradually amounted to a forum where discussions and debates centering around topics as varied as minority rights, media freedom, and crises in education and health sectors were laid out in tandem with what the people considered as any and every failure in 75 years of post-independent governance. 
 
 
-{% include feature/nav-menu.html sections="About CollectionBuilder CSV;About the About Page" %}
+{% include feature/nav-menu.html sections="artitsts_bandaranaikecrowd" %}
 
 The most popular rallying point for satyagrahas, protest walks, speeches, and musical and theatrical performances was the beautifully moulded S. W.R. D. Bandaranaike statue between the old parliament of Ceylon and the new Shangri-La hotel. One of the most striking visuals from the Aragalaya site was that of the statue blindfolded with a black cloth. 
 
