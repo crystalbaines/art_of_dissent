@@ -8,8 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %} 
-
+{% include feature/jumbotron.html objectid="interfaith_marlon" %}
 
 ## About the People's Uprising 2022
 Sri Lanka experienced its worst economic crisis since independence. After months of experiencing daily power cuts, food shortages, debilitating cost of living, and weeks of standing in queues several kilometres long for fuel and cooking gas, isolated pockets of suburban protesters finally converged as a great people’s mobilization in Colombo’s Galle Face Green in April 2022.  
