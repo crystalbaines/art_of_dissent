@@ -10,18 +10,17 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %} 
 
+
+## About the People's Uprising 2022
+Sri Lanka experienced its worst economic crisis since independence. After months of experiencing daily power cuts, food shortages, debilitating cost of living, and weeks of standing in queues several kilometres long for fuel and cooking gas, isolated pockets of suburban protesters finally converged as a great people’s mobilization in Colombo’s Galle Face Green in April 2022.  
+
+Initially an assembly of frustrated citizens venting their anger at the gross economic mismanagement by the Rajapakse regime, the protest movement gradually amounted to a forum where discussions and debates centering around topics as varied as minority rights, media freedom, and crises in education and health sectors were laid out in tandem with what the people considered as any and every failure in 75 years of post-independent governance. 
+
+
 {% include feature/nav-menu.html sections="About CollectionBuilder CSV;About the About Page" %}
 
-## About CollectionBuilder CSV
+The most popular rallying point for satyagrahas, protest walks, speeches, and musical and theatrical performances was the beautifully moulded S. W.R. D. Bandaranaike statue between the old parliament of Ceylon and the new Shangri-La hotel. One of the most striking visuals from the Aragalaya site was that of the statue blindfolded with a black cloth. 
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
-
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
-
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
-
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
 The resulting static site can be hosted on any basic web server.
 
 [CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
